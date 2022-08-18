@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982592650738",
+    "project_id": "water-control-system-da302",
+    "storage_bucket": "water-control-system-da302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982592650738:android:e60154dba27cd30c95ff6b",
+        "android_client_info": {
+          "package_name": "com.water_level_indicator.tank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982592650738-cu1tp8fmuk1dm8shjb1c2sbmbvlg7q3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKm2b5_wU3IAqrGdw9v1iSTB2szA9Ccho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982592650738-cu1tp8fmuk1dm8shjb1c2sbmbvlg7q3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
